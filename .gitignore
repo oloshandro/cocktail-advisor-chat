@@ -1,0 +1,8 @@
+venv
+.env
+venv-cocktail/
+
+__pycache__/
+*_venv
+*vectorstore*
+.vscode
